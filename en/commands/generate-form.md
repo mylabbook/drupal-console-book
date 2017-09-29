@@ -77,8 +77,8 @@ You can add fields to the generated form after you see the prompt "New field typ
 * table_select
 * tel
 * text_format
-* text_area
-* text_field
+* textarea
+* textfield
 * token
 * url
 * value
